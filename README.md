@@ -6,6 +6,6 @@ Used Mapbox API and Weatherstack API for geolocation and weather data respective
 
 Tech stack used - HTML, CSS, NodeJS, ExpressJS, Handlebars
 
-**Production Link->** (https://phimanshu-weather-application.herokuapp.com/).
 
-**Designed By-> Himanshu Pandey**
+
+**Designed By-> Harshit Hatwal**
